@@ -2,17 +2,9 @@
 
 Create modern web app clean architecture with NestJS + MongoDB & ViteJS + React
 
-Visit demo for client side at : [https://bookzeta.netlify.app/](https://bookzeta.netlify.app/)
 
 
 ## Technologies
-- Crawl data
-  - Using Python + Scrapy to crawl books data from other website
-- Backend
-  - NodeJs/NestJs TypeScript
-  - MongoDB/Mongoose
-  - Cloudinary for uploading images
-  - Jest (testing)
 - Front-end
   - ReactJS
   - ViteJS (really fast)
