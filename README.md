@@ -1,6 +1,6 @@
 # Occassion
 
-Create modern web app clean architecture with NestJS + MongoDB & ViteJS + React to allow for a Occassion and events
+Allows users create a more exciting events and occassions for developers looking to connect with thier peers.
 
 ## Technologies
 - Front-end
