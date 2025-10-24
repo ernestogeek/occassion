@@ -1,8 +1,6 @@
-# Bookstore
+# Occassion
 
-Create modern web app clean architecture with NestJS + MongoDB & ViteJS + React
-
-
+Create modern web app clean architecture with NestJS + MongoDB & ViteJS + React to allow for a Occassion and events
 
 ## Technologies
 - Front-end
